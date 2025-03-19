@@ -1,6 +1,7 @@
-exp 1 
+experiment 1
 
 HTML & CSS;
+
 a) Create a web page to embed a map along with hot spot, frames &amp; links.
 
 b) Create a web page using an embedded, external and inline CSS file.
